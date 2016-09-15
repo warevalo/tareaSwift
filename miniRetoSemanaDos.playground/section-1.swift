@@ -14,7 +14,8 @@ Si el número es impar, debes imprimir el número y la palabra impar.
 
 Si el número se encuentra entre un rango de 30 a 40, vamos a imprimir el número, más la palabra Viva Swift. 
 
-Bueno, es un reto pequeño pero, bueno, vamos a familiarizarnos con los conceptos que hemos visto y vamos a desarrollar este pequeño programa. Bueno, felicidades una vez más, hemos concluido el módulo dos y espero verte en los siguientes módulos de este curso de Swift Programar para iOS.
+Wenceslao JUan Arevalo Nava
+
 */
 
 var numeros = 0...100
